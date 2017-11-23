@@ -8,7 +8,7 @@ Noa Barbiro, Yanir Calisar, Koby (Yaakov) Shmama
 <h2>Data Overview</h2>
 <h3>Credentials and Source</h3>
 This data set located can be downloaded from Kaggle data sets, originated from Booking.com and includes 515,739 anonymized users reviews of hotels across Europe (including text reviews and ratings) in the timeframe ranging from 8/4/2015 to 8/3/2017.
-The direct link to data is: <https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe>
+The direct link to data is: <https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe/>
 
 <h3>Business Goals</h3>
 <b>This data collected could be used to answer the following questions:</b>
@@ -26,7 +26,7 @@ The direct link to data is: <https://www.kaggle.com/jiashenliu/515k-hotel-review
 Depending on the business question raised, mainly review the data to ensure its completeness and integrity (full sequence over time, no missing records).
 
 Find an academic article (patent or blog) that relates to data similar to yours. What was the main conclusion on it. Can you look for similar conclusions in your data?
-Blog post by … at <https://monkeylearn.com/blog/machine-learning-hotel-reviews-insights/> revealed results of over 1M reviews recorded on TripAdvisor.
+Blog post by Bruno Stecanella at <https://monkeylearn.com/blog/machine-learning-hotel-reviews-insights/> revealed results of over 1M reviews recorded on TripAdvisor.
 As for the conclusions of the data - more reviews were positive, out of the negative reviews London was awarded with the highest percentage of negative reviews, there is a positive correlation between number of start to the positive percentage of reviews.
 
 
